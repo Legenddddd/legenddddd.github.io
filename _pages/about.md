@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student of School of Software in Shandong University and a member of [MIMA Group](https://mima.sdu.edu.cn/), led by Prof. [Xin-Shun Xu](https://faculty.sdu.edu.cn/xuxinshun/zh_CN/index.htm). 
+I am currently a Ph.D. student of School of Software in Shandong University,  supervised by Prof. [Xin-Shun Xu](https://faculty.sdu.edu.cn/xuxinshun/zh_CN/index.htm) and [Zhen-Duo Chen](https://faculty.sdu.edu.cn/chenzhenduo1/zh_CN/index.htm), and a member of [MIMA Group](https://mima.sdu.edu.cn/), led by Prof. [Xin-Shun Xu](https://faculty.sdu.edu.cn/xuxinshun/zh_CN/index.htm). 
 
 My research interest includes Fine-Grained Image Analysis, Few-Shot Learning, and Class-Incremental Learning.
 
@@ -32,7 +32,7 @@ My research interest includes Fine-Grained Image Analysis, Few-Shot Learning, an
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/MEL.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Evolving and Regularizing Meta-Environment Learner for Fine-Grained Few-Shot Class-Incremental Learning].
+[Evolving and Regularizing Meta-Environment Learner for Fine-Grained Few-Shot Class-Incremental Learning].().
 
 **Li-Jun Zhao**, Zhen-Duo Chen, Yongxin Wang, Xin Luo, Xin-Shun Xu.
 
@@ -43,7 +43,7 @@ My research interest includes Fine-Grained Image Analysis, Few-Shot Learning, an
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/D2A.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Attraction Diminishing and Distributing for Few-Shot Class-Incremental Learning](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Attraction Diminishing and Distributing for Few-Shot Class-Incremental Learning](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhao_Attraction_Diminishing_and_Distributing_for_Few-Shot_Class-Incremental_Learning_CVPR_2025_paper.pdf)
 
 **Li-Jun Zhao**, Zhen-Duo Chen, Yongxin Wang, Xin Luo, Xin-Shun Xu.
 
@@ -55,7 +55,7 @@ My research interest includes Fine-Grained Image Analysis, Few-Shot Learning, an
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP</div><img src='images/TIP.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Angular Isotonic Loss Guided Multi-Layer Integration for Few-shot Fine-grained Image Classification](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Angular Isotonic Loss Guided Multi-Layer Integration for Few-shot Fine-grained Image Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10557533)
 
 **Li-Jun Zhao**, Zhen-Duo Chen, Zhen-Xiang Ma, Xin Luo, Xin-Shun Xu.
 
@@ -72,15 +72,12 @@ My research interest includes Fine-Grained Image Analysis, Few-Shot Learning, an
 - 2020.10: National scholarship, China.
 - 2020.10: First Prize in the China Undergraduate Mathematical Contest in Modeling, Shandong Province.
 - 2020.09: First Class of Academic Scholarship, Shandong University.
-- 2019.11: First Prize in the National College Student Mathematics Competition**, China.
+- 2019.11: First Prize in the National College Student Mathematics Competition, China.
 
 # 📖 Educations
 - *2022.09-Present*, Ph.D. in School of Software, Shandong University
 - *2018.09-2022.06*,  B.E. in School of Software, Shandong University.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Professional Activities (Program Committee & Reviewer)
 - ACM International Conference on Multimedia (**MM**): 2025 
