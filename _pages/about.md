@@ -17,42 +17,72 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a Ph.D. student of School of Software in Shandong University and a member of [MIMA Group](https://mima.sdu.edu.cn/), led by Prof. [Xin-Shun Xu](https://faculty.sdu.edu.cn/xuxinshun/zh_CN/index.htm). 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes Fine-Grained Image Analysis, Few-Shot Learning, and Class-Incremental Learning.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09*: &nbsp;🎉🎉 One paper is accepted by **NeurIPS 2025**. 
+- *2025.02*: &nbsp;🎉🎉 One paper is accepted by **CVPR 2025**.
+- *2024.05*: &nbsp;🎉🎉 One paper is accepted by **TIP**.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/MEL.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Evolving and Regularizing Meta-Environment Learner for Fine-Grained Few-Shot Class-Incremental Learning].
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Li-Jun Zhao**, Zhen-Duo Chen, Yongxin Wang, Xin Luo, Xin-Shun Xu.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+*Neural Information Processing Systems (**NeurIPS**), 2025.*
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/D2A.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[Attraction Diminishing and Distributing for Few-Shot Class-Incremental Learning](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+**Li-Jun Zhao**, Zhen-Duo Chen, Yongxin Wang, Xin Luo, Xin-Shun Xu.
+
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025.*
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP</div><img src='images/TIP.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Angular Isotonic Loss Guided Multi-Layer Integration for Few-shot Fine-grained Image Classification](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+**Li-Jun Zhao**, Zhen-Duo Chen, Zhen-Xiang Ma, Xin Luo, Xin-Shun Xu.
+
+*IEEE Transactions on Image Processing (**TIP**), 2024.*
+
+</div>
+</div>
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2024.11: Outstanding Award for Medium-term Evaluation, Shandong University.
+- 2024.09: First Class of Academic Scholarship, Shandong University. 
+- 2022.09: First Class of Academic Scholarship, Shandong University.
+- 2022.06: Outstanding Graduate, Shandong Province
+- 2021.09: First Class of Academic Scholarship, Shandong University
+- 2020.10: National scholarship, China.
+- 2020.10: First Prize in the China Undergraduate Mathematical Contest in Modeling, Shandong Province.
+- 2020.09: First Class of Academic Scholarship, Shandong University.
+- 2019.11: First Prize in the National College Student Mathematics Competition**, China.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09-Present*, Ph.D. in School of Software, Shandong University
+- *2018.09-2022.06*,  B.E. in School of Software, Shandong University.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Professional Activities (Program Committee & Reviewer)
+- ACM International Conference on Multimedia (**MM**): 2025 
+- Elsevier Journal of Neural Networks (**NN**)
+- ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**)
