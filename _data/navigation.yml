@@ -15,8 +15,5 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
-
-  - title: "Internships"
+  - title: "Professional Activities (Program Committee & Reviewer)"
     url: "/#-internships"
