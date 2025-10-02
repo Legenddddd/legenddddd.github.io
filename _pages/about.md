@@ -32,7 +32,7 @@ My research interest includes Fine-Grained Image Analysis, Few-Shot Learning, an
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/MEL.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Evolving and Regularizing Meta-Environment Learner for Fine-Grained Few-Shot Class-Incremental Learning].().
+Evolving and Regularizing Meta-Environment Learner for Fine-Grained Few-Shot Class-Incremental Learning
 
 **Li-Jun Zhao**, Zhen-Duo Chen, Yongxin Wang, Xin Luo, Xin-Shun Xu.
 
