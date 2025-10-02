@@ -29,7 +29,7 @@ My research interest includes Fine-Grained Image Analysis, Few-Shot Learning, an
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/MEL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Evolving and Regularizing Meta-Environment Learner for Fine-Grained Few-Shot Class-Incremental Learning
@@ -67,15 +67,15 @@ Evolving and Regularizing Meta-Environment Learner for Fine-Grained Few-Shot Cla
 - *2024.11*: Outstanding Award for Medium-term Evaluation, Shandong University.
 - *2024.09*: First Class of Academic Scholarship, Shandong University. 
 - *2022.09*: First Class of Academic Scholarship, Shandong University.
-- *2022.06*: Outstanding Graduate, Shandong Province
-- *2021.09*: First Class of Academic Scholarship, Shandong University
+- *2022.06*: Outstanding Graduate, Shandong Province.
+- *2021.09*: First Class of Academic Scholarship, Shandong University.
 - *2020.10*: National scholarship, China.
 - *2020.10*: First Prize in the China Undergraduate Mathematical Contest in Modeling, Shandong Province.
 - *2020.09*: First Class of Academic Scholarship, Shandong University.
 - *2019.11*: First Prize in the National College Student Mathematics Competition, China.
 
 # 📖 Educations
-- *2022.09-Present*: Ph.D. in School of Software, Shandong University
+- *2022.09-Present*: Ph.D. in School of Software, Shandong University.
 - *2018.09-2022.06*: B.E. in School of Software, Shandong University.
 
 
