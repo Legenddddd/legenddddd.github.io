@@ -80,6 +80,7 @@ Evolving and Regularizing Meta-Environment Learner for Fine-Grained Few-Shot Cla
 
 
 # 💻 Professional Activities (Program Committee & Reviewer)
-- ACM International Conference on Multimedia (**MM**): 2025 
+- ACM International Conference on Multimedia (**MM**): 2025
+- IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**)
 - Elsevier Journal of Neural Networks (**NN**)
 - ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**)
