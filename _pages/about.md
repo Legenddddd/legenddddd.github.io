@@ -79,8 +79,10 @@ Evolving and Regularizing Meta-Environment Learner for Fine-Grained Few-Shot Cla
 - *2018.09-2022.06*: B.E. in School of Software, Shandong University.
 
 
-# 💻 Professional Activities (Program Committee & Reviewer)
-- ACM International Conference on Multimedia (**MM**): 2025
+# 💻 Professional Activities
+Program Committee & Reviewer
+- IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)
+- ACM International Conference on Multimedia (**MM**)
 - IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**)
 - Elsevier Journal of Neural Networks (**NN**)
 - ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**)
