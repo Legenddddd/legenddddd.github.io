@@ -59,7 +59,7 @@ Evolving and Regularizing Meta-Environment Learner for Fine-Grained Few-Shot Cla
 
 **Li-Jun Zhao**, Zhen-Duo Chen, Zhen-Xiang Ma, Xin Luo, Xin-Shun Xu.
 
-*IEEE Transactions on Image Processing (**TIP**), 2024.*
+*IEEE Transactions on Image Processing (**TIP**), 2024.* [**[Code](https://github.com/Legenddddd/AIS-MLI)**]
 
 </div>
 </div>
