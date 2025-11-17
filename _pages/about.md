@@ -64,8 +64,10 @@ My research interest includes Fine-Grained Image Analysis, Few-Shot Learning, an
 </div>
 </div>
 
+</div>
 <div class='paper-box-text' markdown="1">
 - Characteristics Matching Based Hash Codes Generation for Efficient Fine-grained Image Retrieval. Zhen-Duo Chen, **Li-Jun Zhao**, Zi-Chao Zhang, Xin Luo, Xin-Shun Xu. *IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024.*
+</div>
 </div>
 
 - Bi-directional Task-Guided Network for Few-Shot Fine-Grained Image Classification. Zhen-Xiang Ma, Zhen-Duo Chen, **Li-Jun Zhao**, Zi-Chao Zhang, Tai Zheng, Xin Luo, Xin-Shun Xu. *ACM International Conference on Multimedia (**MM**), 2024.*
