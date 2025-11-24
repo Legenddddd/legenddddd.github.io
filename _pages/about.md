@@ -65,8 +65,15 @@ My research interest includes Fine-Grained Image Analysis, Few-Shot Learning, an
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CMBH.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- Characteristics Matching Based Hash Codes Generation for Efficient Fine-grained Image Retrieval. Zhen-Duo Chen, **Li-Jun Zhao**, Zi-Chao Zhang, Xin Luo, Xin-Shun Xu. *IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024.*
+Characteristics Matching Based Hash Codes Generation for Efficient Fine-grained Image Retrieval. 
+
+Zhen-Duo Chen, **Li-Jun Zhao**, Zi-Chao Zhang, Xin Luo, Xin-Shun Xu. 
+
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024.*
+
+</div>
 </div>
 
 <div class='paper-box-text' markdown="1">
