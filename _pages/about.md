@@ -67,7 +67,8 @@ My research interest includes Fine-Grained Image Analysis, Few-Shot Learning, an
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CMBH.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Characteristics Matching Based Hash Codes Generation for Efficient Fine-grained Image Retrieval. 
+  
+[Characteristics Matching Based Hash Codes Generation for Efficient Fine-grained Image Retrieval](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10656206)
 
 Zhen-Duo Chen, **Li-Jun Zhao**, Zi-Chao Zhang, Xin Luo, Xin-Shun Xu. 
 
