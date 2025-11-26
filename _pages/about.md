@@ -91,7 +91,7 @@ Zhen-Duo Chen, **Li-Jun Zhao**, Zi-Chao Zhang, Xin Luo, Xin-Shun Xu.
 </div>
 
 <div class='paper-box-text' markdown="1">
-- DGPrompt: Dual-guidance prompts generation for vision-language models. Tai Zheng, Zhen-Duo Chen, Zi-Chao Zhang, Zhen-Xiang Ma, **Li-Jun Zhao**, Chong-Yu Zhang, Xin Luo, Xin-Shun Xu. *Neural Networks (**NN**), 2025.*
+- DGPrompt: Dual-guidance prompts generation for vision-language models. Tai Zheng, Zhen-Duo Chen, Zi-Chao Zhang, Zhen-Xiang Ma, **Li-Jun Zhao**, Chong-Yu Zhang, Xin Luo, Xin-Shun Xu. *Elsevier Journal of Neural Networks (**NN**), 2025.*
 </div>
 
 # 🎖 Honors and Awards
