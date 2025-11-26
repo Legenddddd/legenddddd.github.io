@@ -36,7 +36,7 @@ My research interest includes Fine-Grained Image Analysis, Few-Shot Learning, an
 
 **Li-Jun Zhao**, Zhen-Duo Chen, Yongxin Wang, Xin Luo, Xin-Shun Xu.
 
-*Neural Information Processing Systems (**NeurIPS**), 2025.*
+*Conference on Neural Information Processing Systems (**NeurIPS**), 2025.*
 </div>
 </div>
 
