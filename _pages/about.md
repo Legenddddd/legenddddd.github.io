@@ -79,19 +79,35 @@ Zhen-Duo Chen, **Li-Jun Zhao**, Zi-Chao Zhang, Xin Luo, Xin-Shun Xu.
 </div>
 
 <div class='paper-box-text' markdown="1">
-- Bi-directional Task-Guided Network for Few-Shot Fine-Grained Image Classification. Zhen-Xiang Ma, Zhen-Duo Chen, **Li-Jun Zhao**, Zi-Chao Zhang, Tai Zheng, Xin Luo, Xin-Shun Xu. *ACM International Conference on Multimedia (**MM**), 2024.*
+- Bi-directional Task-Guided Network for Few-Shot Fine-Grained Image Classification. 
+  
+  Zhen-Xiang Ma, Zhen-Duo Chen, **Li-Jun Zhao**, Zi-Chao Zhang, Tai Zheng, Xin Luo, Xin-Shun Xu. 
+  
+  *ACM International Conference on Multimedia (**MM**), 2024.*
 </div>
 
 <div class='paper-box-text' markdown="1">
-- Cross-Layer and Cross-Sample Feature Optimization Network for Few-Shot Fine-Grained Image Classification. Zhen-Xiang Ma, Zhen-Duo Chen, **Li-Jun Zhao**, Zi-Chao Zhang, Xin Luo, Xin-Shun Xu. *AAAI Conference on Artificial Intelligence (**AAAI**), 2024.*
+- Cross-Layer and Cross-Sample Feature Optimization Network for Few-Shot Fine-Grained Image Classification. 
+  
+  Zhen-Xiang Ma, Zhen-Duo Chen, **Li-Jun Zhao**, Zi-Chao Zhang, Xin Luo, Xin-Shun Xu. 
+  
+  *AAAI Conference on Artificial Intelligence (**AAAI**), 2024.*
 </div>
 
 <div class='paper-box-text' markdown="1">
-- SSCD: Self-Supervised Coherence Discrimination Representation Learning for Scene Text Recognition. Zhi-Yuan Xue, **Li-Jun Zhao**, Jia-Ying Zhang, Xin Luo, Xin-Shun Xu. *ACM International Conference on Multimedia Retrieval (**ICMR**), 2025.*
+- SSCD: Self-Supervised Coherence Discrimination Representation Learning for Scene Text Recognition. 
+  
+  Zhi-Yuan Xue, **Li-Jun Zhao**, Jia-Ying Zhang, Xin Luo, Xin-Shun Xu. 
+  
+  *ACM International Conference on Multimedia Retrieval (**ICMR**), 2025.*
 </div>
 
 <div class='paper-box-text' markdown="1">
-- DGPrompt: Dual-guidance prompts generation for vision-language models. Tai Zheng, Zhen-Duo Chen, Zi-Chao Zhang, Zhen-Xiang Ma, **Li-Jun Zhao**, Chong-Yu Zhang, Xin Luo, Xin-Shun Xu. *Elsevier Journal of Neural Networks (**NN**), 2025.*
+- DGPrompt: Dual-guidance prompts generation for vision-language models. 
+  
+  Tai Zheng, Zhen-Duo Chen, Zi-Chao Zhang, Zhen-Xiang Ma, **Li-Jun Zhao**, Chong-Yu Zhang, Xin Luo, Xin-Shun Xu. 
+  
+  *Elsevier Journal of Neural Networks (**NN**), 2025.*
 </div>
 
 # 🎖 Honors and Awards
