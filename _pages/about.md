@@ -111,15 +111,20 @@ Zhen-Duo Chen, **Li-Jun Zhao**, Zi-Chao Zhang, Xin Luo, Xin-Shun Xu.
 </div>
 
 # 🎖 Honors and Awards
+- *2025.10*: BYD Scholarship, Shandong University.
+- *2025.09*: First Class of Academic Scholarship, Shandong University.
 - *2024.11*: Outstanding Award for Medium-term Evaluation, Shandong University.
 - *2024.09*: First Class of Academic Scholarship, Shandong University. 
 - *2022.09*: First Class of Academic Scholarship, Shandong University.
 - *2022.06*: Outstanding Graduate, Shandong Province.
 - *2021.09*: First Class of Academic Scholarship, Shandong University.
+- *2021.09*: Excellent Student Cadre, Shandong University.
 - *2020.10*: National scholarship, China.
 - *2020.10*: First Prize in the China Undergraduate Mathematical Contest in Modeling, Shandong Province.
 - *2020.09*: First Class of Academic Scholarship, Shandong University.
+- *2020.09*: Excellent Student Cadre, Shandong University.
 - *2019.11*: First Prize in the National College Student Mathematics Competition, China.
+- *2019.10*: Second Prize in the China Undergraduate Mathematical Contest in Modeling, Shandong Province.
 
 # 📖 Educations
 - *2022.09-Present*: Ph.D. in School of Software, Shandong University.
