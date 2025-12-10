@@ -127,8 +127,8 @@ Zhen-Duo Chen, **Li-Jun Zhao**, Zi-Chao Zhang, Xin Luo, Xin-Shun Xu.
 - *2019.10*: Second Prize in the China Undergraduate Mathematical Contest in Modeling, Shandong Province.
 
 # 📖 Educations
-- *2022.09-Present*: Ph.D. in School of Software, Shandong University.
-- *2018.09-2022.06*: B.E. in School of Software, Shandong University.
+- *2022.09-Present*: Ph.D. in Software Engineering, Shandong University.
+- *2018.09-2022.06*: B.E. in Software Engineering, Shandong University.
 
 
 # 💻 Professional Activities
