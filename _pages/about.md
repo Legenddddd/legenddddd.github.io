@@ -21,7 +21,7 @@ I am currently a Ph.D. student of School of Software in Shandong University,  su
 
 My research interest includes Fine-Grained Image Analysis, Few-Shot Learning, and Class-Incremental Learning.
 
-<span style="color:red;">I am Seeking a Postdoctoral Position ！</span>
+<span style="color:red;">I am Seeking a Postdoctoral Position !</span>
 
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 One paper is accepted by **NeurIPS 2025**. 
