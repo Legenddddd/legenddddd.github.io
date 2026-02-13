@@ -19,9 +19,8 @@ redirect_from:
 
 I am currently a Ph.D. student of School of Software in Shandong University,  supervised by Prof. [Xin-Shun Xu](https://faculty.sdu.edu.cn/xuxinshun/zh_CN/index.htm) and [Zhen-Duo Chen](https://faculty.sdu.edu.cn/chenzhenduo1/zh_CN/index.htm), and a member of [MIMA Group](https://mima.sdu.edu.cn/), led by Prof. [Xin-Shun Xu](https://faculty.sdu.edu.cn/xuxinshun/zh_CN/index.htm). 
 
-My research interest includes Fine-Grained Image Analysis, Few-Shot Learning, and Class-Incremental Learning.
+My research interest includes Incremental Learning, Few-Shot Learning, and Fine-Grained Image Analysis.
 
-<span style="color:red;">I am Seeking a Postdoctoral Position !</span>
 
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 One paper is accepted by **NeurIPS 2025**. 
@@ -33,7 +32,7 @@ My research interest includes Fine-Grained Image Analysis, Few-Shot Learning, an
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Evolving and Regularizing Meta-Environment Learner for Fine-Grained Few-Shot Class-Incremental Learning](https://openreview.net/pdf?id=AU2eaY2QEu)
+[Evolving and Regularizing Meta-Environment Learner for Fine-Grained Few-Shot Class-Incremental Learning]()
 
 **Li-Jun Zhao**, Zhen-Duo Chen, Yongxin Wang, Xin Luo, Xin-Shun Xu.
 
@@ -132,9 +131,12 @@ Zhen-Duo Chen, **Li-Jun Zhao**, Zi-Chao Zhang, Xin Luo, Xin-Shun Xu.
 
 
 # 💻 Professional Activities
-Program Committee & Reviewer
+Conference Reviewer
+- International Conference on Machine Learning (**ICML**)
+- European Conference on Computer Vision (**ECCV**)
 - IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)
 - ACM International Conference on Multimedia (**MM**)
+Journal Reviewer
 - IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**)
 - Elsevier Journal of Neural Networks (**NN**)
 - ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**)
