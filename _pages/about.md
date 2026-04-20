@@ -90,11 +90,10 @@ My research interest includes Incremental Learning, Few-Shot Learning, and Fine-
 
 <div class='paper-box-text' markdown="1">
 - Characteristics Matching Based Hash Codes Generation for Efficient Fine-grained Image Retrieval.
-
-Zhen-Duo Chen, **Li-Jun Zhao**, Zi-Chao Zhang, Xin Luo, Xin-Shun Xu. 
-
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024.*
-
+  
+  Zhen-Duo Chen, **Li-Jun Zhao**, Zi-Chao Zhang, Xin Luo, Xin-Shun Xu. 
+  
+  *IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024.*
 </div>
 
 
