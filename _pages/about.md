@@ -23,11 +23,34 @@ My research interest includes Incremental Learning, Few-Shot Learning, and Fine-
 
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉 One paper is accepted by **SSI**.
+- *2026.02*: &nbsp;🎉🎉 One paper is accepted by **CVPR 2026**.
 - *2025.09*: &nbsp;🎉🎉 One paper is accepted by **NeurIPS 2025**. 
 - *2025.02*: &nbsp;🎉🎉 One paper is accepted by **CVPR 2025**.
 - *2024.05*: &nbsp;🎉🎉 One paper is accepted by **TIP**.
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SSI 2026</div><img src='images/EXP2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Progressively exploring and exploiting inference data to break fine-grained classification barriers]()
+
+**Li-Jun Zhao**, Si-Yuan Zhang, Zhen-Duo Chen, Xin Luo, Xin-Shun Xu.
+
+*SCIENTIA SINICA Informationis (**SSI**), 2026 (In Chinese), 2026.*
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/SCEG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[From Few-way to Many-way: Rethinking Few-shot Fine-grained Image Classification]()
+
+**Li-Jun Zhao**, Zhen-Duo Chen, Xin Luo, Xin-Shun Xu.
+
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.*
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -36,7 +59,7 @@ My research interest includes Incremental Learning, Few-Shot Learning, and Fine-
 
 **Li-Jun Zhao**, Zhen-Duo Chen, Yongxin Wang, Xin Luo, Xin-Shun Xu.
 
-*Conference on Neural Information Processing Systems (**NeurIPS**), 2025.*
+*Advances in Neural Information Processing Systems (**NeurIPS**), 2025.*
 </div>
 </div>
 
@@ -110,20 +133,14 @@ Zhen-Duo Chen, **Li-Jun Zhao**, Zi-Chao Zhang, Xin Luo, Xin-Shun Xu.
 </div>
 
 # 🎖 Honors and Awards
-- *2025.10*: BYD Scholarship, Shandong University.
-- *2025.09*: First Class of Academic Scholarship, Shandong University.
-- *2024.11*: Outstanding Award for Medium-term Evaluation, Shandong University.
-- *2024.09*: First Class of Academic Scholarship, Shandong University. 
-- *2022.09*: First Class of Academic Scholarship, Shandong University.
-- *2022.06*: Outstanding Graduate, Shandong Province.
-- *2021.09*: First Class of Academic Scholarship, Shandong University.
-- *2021.09*: Excellent Student Cadre, Shandong University.
-- *2020.10*: National scholarship, China.
-- *2020.10*: First Prize in the China Undergraduate Mathematical Contest in Modeling, Shandong Province.
-- *2020.09*: First Class of Academic Scholarship, Shandong University.
-- *2020.09*: Excellent Student Cadre, Shandong University.
-- *2019.11*: First Prize in the National College Student Mathematics Competition, China.
-- *2019.10*: Second Prize in the China Undergraduate Mathematical Contest in Modeling, Shandong Province.
+- *2025*: BYD Scholarship, Shandong University.
+- *2020, 2021, 2022, 2024, 2025*: First Class of Academic Scholarship, Shandong University.
+- *2024*: Outstanding Award for Medium-term Evaluation, Shandong University.
+- *2022*: Outstanding Graduate, Shandong Province.
+- *2020, 2021*: Excellent Student Cadre, Shandong University.
+- *2020*: National scholarship, China.
+- *2020*: First Prize in the China Undergraduate Mathematical Contest in Modeling, Shandong Province.
+- *2019*: First Prize in the National College Student Mathematics Competition, China.
 
 # 📖 Educations
 - *2022.09-Present*: Ph.D. in Software Engineering, Shandong University.
@@ -132,6 +149,7 @@ Zhen-Duo Chen, **Li-Jun Zhao**, Zi-Chao Zhang, Xin Luo, Xin-Shun Xu.
 
 # 💻 Professional Activities
 Conference Reviewer
+- Conference on Neural Information Processing Systems (**NeurIPS**)
 - International Conference on Machine Learning (**ICML**)
 - European Conference on Computer Vision (**ECCV**)
 - IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)
