@@ -23,7 +23,7 @@ My research interest includes Incremental Learning, Few-Shot Learning, and Fine-
 
 
 # 🔥 News
-- *2026.02*: &nbsp;🎉🎉 One paper is accepted by **TMLR**.
+- *2026.04*: &nbsp;🎉🎉 One paper is accepted by **TMLR**.
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by **CVPR 2026**.
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by **SSI**.
 - *2025.09*: &nbsp;🎉🎉 One paper is accepted by **NeurIPS 2025**. 
