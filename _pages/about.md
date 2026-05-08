@@ -61,7 +61,7 @@ My research interest includes Incremental Learning, Few-Shot Learning, and Fine-
 
 **Li-Jun Zhao**, Si-Yuan Zhang, Zhen-Duo Chen, Xin Luo, Xin-Shun Xu.
 
-*SCIENTIA SINICA Informationis (**SSI**), 2026 (In Chinese).*
+*SCIENTIA SINICA Informationis (**SSI**) (In Chinese), 2026.*
 </div>
 </div>
 
