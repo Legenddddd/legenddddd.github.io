@@ -39,7 +39,7 @@ My research interest includes Incremental Learning, Few-Shot Learning, and Fine-
 
 **Li-Jun Zhao**, Zhen-Duo Chen, Xin Luo, Xin-Shun Xu.
 
-* Transactions on Machine Learning Research (**TMLR**), 2026.*
+*Transactions on Machine Learning Research (**TMLR**), 2026.*
 </div>
 </div>
 
