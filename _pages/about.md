@@ -32,6 +32,16 @@ My research interest includes Incremental Learning, Few-Shot Learning, and Fine-
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR</div><img src='images/flow.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Hierarchical Filtering and Refinement Classification for Few-Shot Class-Incremental Learning]()
+
+**Li-Jun Zhao**, Zhen-Duo Chen, Xin Luo, Xin-Shun Xu.
+
+* Transactions on Machine Learning Research (**TMLR**), 2026.*
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/SCEG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
