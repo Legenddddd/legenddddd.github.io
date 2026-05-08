@@ -23,23 +23,15 @@ My research interest includes Incremental Learning, Few-Shot Learning, and Fine-
 
 
 # 🔥 News
-- *2026.02*: &nbsp;🎉🎉 One paper is accepted by **SSI**.
+- *2026.02*: &nbsp;🎉🎉 One paper is accepted by **TMLR**.
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by **CVPR 2026**.
+- *2026.02*: &nbsp;🎉🎉 One paper is accepted by **SSI**.
 - *2025.09*: &nbsp;🎉🎉 One paper is accepted by **NeurIPS 2025**. 
 - *2025.02*: &nbsp;🎉🎉 One paper is accepted by **CVPR 2025**.
 - *2024.05*: &nbsp;🎉🎉 One paper is accepted by **TIP**.
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SSI 2026</div><img src='images/EXP2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Progressively exploring and exploiting inference data to break fine-grained classification barriers]()
-
-**Li-Jun Zhao**, Si-Yuan Zhang, Zhen-Duo Chen, Xin Luo, Xin-Shun Xu.
-
-*SCIENTIA SINICA Informationis (**SSI**), 2026 (In Chinese), 2026.*
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/SCEG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -49,6 +41,17 @@ My research interest includes Incremental Learning, Few-Shot Learning, and Fine-
 **Li-Jun Zhao**, Zhen-Duo Chen, Xin Luo, Xin-Shun Xu.
 
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.*
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SSI 2026</div><img src='images/EXP2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Progressively exploring and exploiting inference data to break fine-grained classification barriers]()
+
+**Li-Jun Zhao**, Si-Yuan Zhang, Zhen-Duo Chen, Xin Luo, Xin-Shun Xu.
+
+*SCIENTIA SINICA Informationis (**SSI**), 2026 (In Chinese), 2026.*
 </div>
 </div>
 
