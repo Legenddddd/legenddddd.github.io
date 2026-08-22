@@ -171,8 +171,10 @@ Zhen-Duo Chen\*, **Li-Jun Zhao\***, Yongxin Wang, Yu-Wei Zhan, Xiao-Qian Liu, Xi
 
 # 💻 Professional Activities
 Conference Reviewer
+
 **ICML** · **NeurIPS** · **CVPR** · **ECCV** · **AAAI** · **MM** · etc.
   
 Journal Reviewer
+
 **TCSVT** · **NN** · **TOMM** · **TAI** · etc.
 
