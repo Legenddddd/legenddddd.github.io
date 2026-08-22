@@ -163,7 +163,7 @@ Zhen-Duo Chen\*, **Li-Jun Zhao\***, Yongxin Wang, Yu-Wei Zhan, Xiao-Qian Liu, Xi
 - *2019*: First Prize in the National College Student Mathematics Competition, China.
 
 # 📖 Educations
-- *2026.08-Present*: Research Fellow, School of Electrical and Electronic Engineering, Nanyang Technological University
+- *2026.08-Present*: Research Fellow, School of Electrical and Electronic Engineering, Nanyang Technological University.
 - *2022.09-2026.06*: Ph.D., School of Software, Shandong University.
 - *2018.09-2022.06*: Bachelor, School of Software, Shandong University.
 
@@ -171,7 +171,7 @@ Zhen-Duo Chen\*, **Li-Jun Zhao\***, Yongxin Wang, Yu-Wei Zhan, Xiao-Qian Liu, Xi
 # 💻 Professional Activities
 Conference Reviewer
 
-**ICML** · **NeurIPS** · **CVPR** · **ECCV** · **AAAI** · **MM** · etc.
+**ICML** · **CVPR** · **ECCV** · **AAAI** · **MM** · etc.
   
 Journal Reviewer
 
