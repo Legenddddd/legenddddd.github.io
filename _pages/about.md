@@ -111,7 +111,7 @@ Zhen-Duo Chen\*, **Li-Jun Zhao\***, Yongxin Wang, Yu-Wei Zhan, Xiao-Qian Liu, Xi
 </div>
 
 
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box-text' markdown="1">
 - Characteristics Matching Based Hash Codes Generation for Efficient Fine-grained Image Retrieval.
   
   Zhen-Duo Chen, **Li-Jun Zhao**, Zi-Chao Zhang, Xin Luo, Xin-Shun Xu. 
@@ -150,7 +150,7 @@ Zhen-Duo Chen\*, **Li-Jun Zhao\***, Yongxin Wang, Yu-Wei Zhan, Xiao-Qian Liu, Xi
   Tai Zheng, Zhen-Duo Chen, Zi-Chao Zhang, Zhen-Xiang Ma, **Li-Jun Zhao**, Chong-Yu Zhang, Xin Luo, Xin-Shun Xu. 
   
   *Elsevier Journal of Neural Networks (**NN**), 2025.*
-</div>
+</div> -->
 
 # 🎖 Honors and Awards
 - *2025*: BYD Scholarship, Shandong University.
