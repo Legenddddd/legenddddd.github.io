@@ -17,12 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student of School of Software in Shandong University,  supervised by Prof. [Xin-Shun Xu](https://faculty.sdu.edu.cn/xuxinshun/zh_CN/index.htm) and [Zhen-Duo Chen](https://faculty.sdu.edu.cn/chenzhenduo1/zh_CN/index.htm), and a member of [MIMA Group](https://mima.sdu.edu.cn/), led by Prof. [Xin-Shun Xu](https://faculty.sdu.edu.cn/xuxinshun/zh_CN/index.htm). 
+I am currently a Research Fellow at the School of Electrical and Electronic Engineering, Nanyang Technological University, working with [Wanhua Li](https://li-wanhua.github.io/). I received my Ph.D. from the School of Software, Shandong University, in June 2026, advised by Prof. [Xin-Shun Xu](https://faculty.sdu.edu.cn/xuxinshun/zh_CN/index.htm) and [Zhen-Duo Chen](https://faculty.sdu.edu.cn/chenzhenduo1/zh_CN/index.htm). 
 
 My research interest includes Incremental Learning, Few-Shot Learning, and Fine-Grained Image Analysis.
 
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉🎉 One paper is accepted by **TPAMI**.
 - *2026.04*: &nbsp;🎉🎉 One paper is accepted by **TMLR**.
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by **CVPR 2026**.
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by **SSI**.
@@ -31,6 +32,16 @@ My research interest includes Incremental Learning, Few-Shot Learning, and Fine-
 - *2024.05*: &nbsp;🎉🎉 One paper is accepted by **TIP**.
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Shared Latent Characteristic Anchored Hash Codes Generation for Efficient Fine-grained Image Retrieval]()
+
+Zhen-Duo Chen\*, **Li-Jun Zhao\***, Yongxin Wang, Yu-Wei Zhan, Xiao-Qian Liu, Xin Luo, Xin-Shun Xu.
+
+*Transactions on Machine Learning Research (**TPAMI**), 2026. (\* Equal contribution)*
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR</div><img src='images/flow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -54,7 +65,7 @@ My research interest includes Incremental Learning, Few-Shot Learning, and Fine-
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SSI 2026</div><img src='images/EXP2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SSI</div><img src='images/EXP2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Progressively exploring and exploiting inference data to break fine-grained classification barriers]()
@@ -153,19 +164,15 @@ My research interest includes Incremental Learning, Few-Shot Learning, and Fine-
 - *2019*: First Prize in the National College Student Mathematics Competition, China.
 
 # 📖 Educations
-- *2022.09-Present*: Ph.D. in Software Engineering, Shandong University.
-- *2018.09-2022.06*: B.E. in Software Engineering, Shandong University.
+- *2026.08-Present*: Research Fellow, School of Electrical and Electronic Engineering, Nanyang Technological University
+- *2022.09-2026.06*: Ph.D., School of Software, Shandong University.
+- *2018.09-2022.06*: Bachelor, School of Software, Shandong University.
 
 
 # 💻 Professional Activities
 Conference Reviewer
-- Conference on Neural Information Processing Systems (**NeurIPS**)
-- International Conference on Machine Learning (**ICML**)
-- European Conference on Computer Vision (**ECCV**)
-- IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)
-- ACM International Conference on Multimedia (**MM**)
+**ICML** · **NeurIPS** · **CVPR** · **ECCV** · **AAAI** · **MM** · etc.
   
 Journal Reviewer
-- IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**)
-- Elsevier Journal of Neural Networks (**NN**)
-- ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**)
+**TCSVT** · **NN** · **TOMM** · **TAI** · etc.
+
