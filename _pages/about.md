@@ -32,7 +32,7 @@ My research interest includes Incremental Learning, Few-Shot Learning, and Fine-
 - *2024.05*: &nbsp;🎉🎉 One paper is accepted by **TIP**.
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/PAMI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Shared Latent Characteristic Anchored Hash Codes Generation for Efficient Fine-grained Image Retrieval]()
