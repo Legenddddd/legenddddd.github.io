@@ -39,7 +39,7 @@ My research interest includes Incremental Learning, Few-Shot Learning, and Fine-
 
 Zhen-Duo Chen\*, **Li-Jun Zhao\***, Yongxin Wang, Yu-Wei Zhan, Xiao-Qian Liu, Xin Luo, Xin-Shun Xu.
 
-*Transactions on Machine Learning Research (**TPAMI**), 2026. (\* Equal contribution)*
+*Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2026. (\* Equal contribution)*
 </div>
 </div>
 
