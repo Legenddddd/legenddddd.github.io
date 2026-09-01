@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Research Fellow at the School of Electrical and Electronic Engineering, Nanyang Technological University, supervised by [Wanhua Li](https://li-wanhua.github.io/). I received my Ph.D. from the School of Software, Shandong University, in June 2026, supervised by Prof. [Xin-Shun Xu](https://faculty.sdu.edu.cn/xuxinshun/zh_CN/index.htm) and [Zhen-Duo Chen](https://faculty.sdu.edu.cn/chenzhenduo1/zh_CN/index.htm). 
+I am currently a Research Fellow at the School of Electrical and Electronic Engineering, Nanyang Technological University, supervised by [Wanhua Li](https://li-wanhua.github.io/). I received my Ph.D. from the School of Software, Shandong University, in June 2026, supervised by Prof. [Xin-Shun Xu](https://faculty.sdu.edu.cn/xuxinshun/zh_CN/index.htm) and [Zhen-Duo Chen](https://faculty.sdu.edu.cn/chenzhenduo1/zh_CN/index.htm). In 2022, I received my B.S. degree from the School of Software, Shandong University.
 My research interest includes Incremental Learning, Few-Shot Learning, and Fine-Grained Image Analysis.
 
 
@@ -161,11 +161,6 @@ Zhen-Duo Chen\*, **Li-Jun Zhao\***, Yongxin Wang, Yu-Wei Zhan, Xiao-Qian Liu, Xi
 - *2020*: National scholarship, China.
 - *2020*: First Prize in the China Undergraduate Mathematical Contest in Modeling, Shandong Province.
 - *2019*: First Prize in the National College Student Mathematics Competition, China.
-
-# 📖 Educations
-- *2026.08-Present*: Research Fellow, School of Electrical and Electronic Engineering, Nanyang Technological University.
-- *2022.09-2026.06*: Ph.D., School of Software, Shandong University.
-- *2018.09-2022.06*: Bachelor, School of Software, Shandong University.
 
 
 # 💻 Professional Activities
