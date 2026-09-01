@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Research Fellow at the School of Electrical and Electronic Engineering, Nanyang Technological University, working with [Wanhua Li](https://li-wanhua.github.io/). I received my Ph.D. from the School of Software, Shandong University, in June 2026, advised by Prof. [Xin-Shun Xu](https://faculty.sdu.edu.cn/xuxinshun/zh_CN/index.htm) and [Zhen-Duo Chen](https://faculty.sdu.edu.cn/chenzhenduo1/zh_CN/index.htm). 
+I am currently a Research Fellow at the School of Electrical and Electronic Engineering, Nanyang Technological University, supervised by [Wanhua Li](https://li-wanhua.github.io/). I received my Ph.D. from the School of Software, Shandong University, in June 2026, supervised by Prof. [Xin-Shun Xu](https://faculty.sdu.edu.cn/xuxinshun/zh_CN/index.htm) and [Zhen-Duo Chen](https://faculty.sdu.edu.cn/chenzhenduo1/zh_CN/index.htm). 
 My research interest includes Incremental Learning, Few-Shot Learning, and Fine-Grained Image Analysis.
 
 
